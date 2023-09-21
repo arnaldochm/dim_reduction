@@ -1,3 +1,5 @@
 .venv
 data
 install.sh
+data.csv
+labels.csv
